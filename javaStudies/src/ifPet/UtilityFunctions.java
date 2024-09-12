@@ -1,12 +1,13 @@
-package javaStudies;
+package ifPet;
 
 import java.util.Scanner;
-import javaStudies.models.*;
-import javaStudies.services.SpecieService;
-import javaStudies.services.PetService;
-import javaStudies.services.ClientService;
-import javaStudies.services.JobService;
-import javaStudies.services.AppointmentService;
+
+import ifPet.models.*;
+import ifPet.services.AppointmentService;
+import ifPet.services.ClientService;
+import ifPet.services.JobService;
+import ifPet.services.PetService;
+import ifPet.services.SpecieService;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

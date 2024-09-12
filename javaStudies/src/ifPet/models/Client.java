@@ -1,4 +1,4 @@
-package javaStudies.models;
+package ifPet.models;
 
 public class Client {
 	private int id;

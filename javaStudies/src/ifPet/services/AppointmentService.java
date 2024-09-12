@@ -1,8 +1,10 @@
-package javaStudies.services;
+package ifPet.services;
 
 import java.util.ArrayList;
+
+import ifPet.models.Appointment;
+
 import java.time.LocalDateTime;
-import javaStudies.models.Appointment;
 import java.time.LocalDate;
 
 public class AppointmentService {

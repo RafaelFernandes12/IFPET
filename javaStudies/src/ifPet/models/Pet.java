@@ -1,7 +1,7 @@
-package javaStudies.models;
+package ifPet.models;
 
-import javaStudies.services.SpecieService;
-import javaStudies.services.ClientService;
+import ifPet.services.ClientService;
+import ifPet.services.SpecieService;
 public class Pet {
 	private int id;
 	private String name;

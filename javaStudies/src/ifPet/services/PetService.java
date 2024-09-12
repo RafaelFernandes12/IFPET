@@ -1,8 +1,8 @@
-package javaStudies.services;
+package ifPet.services;
 
 import java.util.ArrayList;
 
-import javaStudies.models.Pet;
+import ifPet.models.Pet;
 
 public class PetService {
 private static ArrayList<Pet> pets = new ArrayList<Pet>();

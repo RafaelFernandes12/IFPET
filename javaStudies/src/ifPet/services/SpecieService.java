@@ -1,7 +1,8 @@
-package javaStudies.services;
+package ifPet.services;
 
 import java.util.ArrayList;
-import javaStudies.models.Specie;
+
+import ifPet.models.Specie;
 
 public class SpecieService {
 	

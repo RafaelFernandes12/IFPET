@@ -1,8 +1,8 @@
-package javaStudies.services;
+package ifPet.services;
 
 import java.util.ArrayList;
 
-import javaStudies.models.Job;
+import ifPet.models.Job;
 
 public class JobService {
 	private static ArrayList<Job> jobs = new ArrayList<Job>();

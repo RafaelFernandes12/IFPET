@@ -1,4 +1,4 @@
-package javaStudies.models;
+package ifPet.models;
 
 public class Specie {
 	private int id;

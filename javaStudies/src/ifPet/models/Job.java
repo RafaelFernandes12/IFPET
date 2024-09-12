@@ -1,4 +1,4 @@
-package javaStudies.models;
+package ifPet.models;
 
 public class Job {
 	private int id;

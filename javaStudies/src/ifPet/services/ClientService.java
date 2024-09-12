@@ -1,8 +1,9 @@
-package javaStudies.services;
+package ifPet.services;
 
 import java.util.ArrayList;
-import javaStudies.models.Client;
-import javaStudies.models.Pet;
+
+import ifPet.models.Client;
+import ifPet.models.Pet;
 
 public class ClientService {
 	

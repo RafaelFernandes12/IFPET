@@ -1,11 +1,11 @@
-package javaStudies.models;
+package ifPet.models;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-import javaStudies.services.ClientService;
-import javaStudies.services.JobService;
-import javaStudies.services.PetService;
+import ifPet.services.ClientService;
+import ifPet.services.JobService;
+import ifPet.services.PetService;
 public class Appointment {
     private int id;
     private LocalDateTime day;

@@ -1,8 +1,8 @@
-package javaStudies;
+package ifPet;
 
 import java.util.Scanner;
 
-import javaStudies.models.Client;
+import ifPet.models.Client;
 
 public class Main {
 	
